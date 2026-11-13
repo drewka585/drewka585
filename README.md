@@ -15,8 +15,6 @@ Most of my code lives in private client repos. What I can show is below.
 
 - [deece-skills](https://github.com/drewka585/deece-skills): the Claude Code skills I use every day to build pages, test them in a browser, edit copy and produce video.
 - [deece-teardowns](https://github.com/drewka585/deece-teardowns): interactive teardown pages I send to prospects in place of a PDF.
-- [trupath-wealth-site](https://github.com/drewka585/trupath-wealth-site): a Next.js marketing site for a wealth advisory firm.
-- [trupath-voice](https://github.com/drewka585/trupath-voice): an offline dictation app for the same firm, a rebranded fork of Handy.
 
 ## Stack
 

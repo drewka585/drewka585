@@ -26,6 +26,7 @@ TypeScript, Next.js, React, Tailwind, Supabase, Postgres, Python, Modal, Vercel,
 
 - [Your referrals are a good business. They are also a single point of failure](https://rbj.net/2026/11/06/your-referrals-are-a-good-business-they-are-also-a-single-point-of-failure-guest-opinion/), Rochester Business Journal
 - [Before you scale your ad budget or cut off a campaign](https://usawire.com/before-you-scale-your-ad-budget-or-cut-off-a-campaign-follow-this-rochester-founders-process-for-finding-the-bottleneck/), USA Wire
+- [How this Rochester founder builds a second sales pipeline for referral-dependent agencies](https://usawire.com/how-this-rochester-founder-builds-a-second-sales-pipeline-for-referral-dependent-agencies-without-touching-their-sales-calls/), USA Wire
 
 ## Contact
 
